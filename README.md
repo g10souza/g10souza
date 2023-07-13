@@ -1,7 +1,8 @@
 <div>
 
 <h1 align="center">
-    Oi, tudo bem? Eu sou o Gabriel Augusto.
+    Olá. Eu sou o Gabriel Augusto.
+        <p>Seja bem vindo(a).</p> 
 <a https://www.linkedin.com/in/gabriel-augusto-525893205/">  😃️</a>
 </h1>
 
