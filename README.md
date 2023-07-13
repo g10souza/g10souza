@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-    Sou Desenvolvedor e estou a procura de uma oportunidade para atuar profissionalmente na área. Atualmente estou cursando Análise e Desenvolvimento de sistemas, atuo na área de infraestrutura.
+    Atualmente estou cursando Análise e Desenvolvimento de sistemas, atuo na área de infraestrutura.
 </p>
 </div>
 
