@@ -13,17 +13,17 @@
  
 
 <div align="center">
-<a href="https://github.com/ThiagoXavierCP">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoXavierCP&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoXavierCP&theme=dracula&hide_border=false&&layout=compact"/>
+<a href="https://github.com/g10souza">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=g10souza&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g10souza&theme=dracula&hide_border=false&&layout=compact"/>
 </a>
 </div>
 
  
 
 <div align="center" valign="top"><br>
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"> 
 </div><br>
 
